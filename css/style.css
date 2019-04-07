@@ -24,25 +24,12 @@ body {
   border: 1px solid #888;
   width: 80%;
 }
-/* The Close Button */
-.close {
-  color: #aaaaaa;
-  float: right;
-  font-size: 28px;
-  font-weight: bold;
-}
-.close:hover,
-.close:focus {
-  color: #000;
-  text-decoration: none;
-  cursor: pointer;
-}
-.modal-message,
-.modal-data
+
+.modal-message
 {
-	 width: 50%;
-  margin: 0 auto;
-  text-align: center;
+	width: 50%;
+  	margin: 0 auto;
+  	text-align: center;
 }
 .btn{
   text-align: center;
